@@ -26,7 +26,7 @@ QA Engineer.
 ![SOAP](https://img.shields.io/badge/-SOAP-090909?style=for-the-badge&logo=SOAP&logoColor=08B1F0)
 
 ### Certificate:
-![header](https://github.com/mosolov-ev/mosolov-ev/blob/main/assets/certificate.png)
+[![header](https://github.com/mosolov-ev/mosolov-ev/blob/main/assets/certificate.png)](https://stepik.org/cert/2331105)
 
 ### Social network:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=29A1DD)](https://t.me/mosolov_ev)
